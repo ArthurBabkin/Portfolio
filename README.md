@@ -1,1 +1,1 @@
-The repository with my diplomas, certificates and etc.
+The repository with my CV, diplomas, certificates and etc.
